@@ -1,0 +1,5 @@
+{
+  "name": "Job Application Clicker",
+  "description": "A simple and aesthetic clicker to track the number of jobs you apply to each day. Your daily count is saved locally and resets automatically for the new day.",
+  "requestFramePermissions": []
+}
